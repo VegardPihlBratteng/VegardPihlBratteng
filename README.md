@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @VegardPihlBratteng
 - 👀 I’m interested in automation, scripting, and backend programming
 - 🌱 I’m currently learning kubernetes, docker, aws and azure
-- 📫 How to reach me -> vegard@allegro.no
+- 📫 How to reach me -> vegard@laud-media.com
+  
 
 <!---
 VegardPihlBratteng/VegardPihlBratteng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
