@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VegardPihlBratteng
 - 👀 I’m interested in automation, scripting, and backend programming
-- 🌱 I’m currently learning kubernetes, docker, aws and azure
+- 🌱 I’m currently enjoying the Prompt Engineer life
 - 📫 How to reach me -> vegard@laud-media.com
   
 
